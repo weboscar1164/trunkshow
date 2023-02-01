@@ -1,0 +1,33 @@
+@use 'spFirst' as s;
+
+.br {
+  &_sm {
+    @include s.sm {
+      display: none;
+    }
+  }
+
+  &_md {
+    @include s.md {
+      display: none;
+    }
+  }
+
+  &_lg {
+    @include s.lg {
+      display: none;
+    }
+  }
+
+  &_xl {
+    @include s.xl {
+      display: none;
+    }
+  }
+
+  &_xxl {
+    @include s.xxl {
+      display: none;
+    }
+  }
+}

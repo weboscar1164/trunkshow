@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.24" height="85.278" viewBox="0 0 62.24 85.278">
+  <g id="グループ_45" data-name="グループ 45" transform="translate(-50.26 -100)">
+    <path id="パス_22" data-name="パス 22" d="M30,0A30,30,0,0,1,60,30c0,16.569-29.545,54.042-30,54.277S0,46.569,0,30A30,30,0,0,1,30,0Z" transform="translate(51 101)" fill="#2f4f4f"/>
+    <circle id="楕円形_1" data-name="楕円形 1" cx="17.5" cy="17.5" r="17.5" transform="translate(64 114)" fill="#fff"/>
+    <text id="T" transform="translate(62.26 133.461) rotate(-90)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">T</tspan></text>
+    <text id="h" transform="matrix(0.259, -0.966, 0.966, 0.259, 62.591, 128.041)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">h</tspan></text>
+    <text id="e" transform="translate(64.289 122.464) rotate(-60)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">e</tspan></text>
+    <text id="T-2" data-name="T" transform="translate(67.854 118.625) rotate(-45)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">T</tspan></text>
+    <text id="r" transform="translate(72 114.923) rotate(-30)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">r</tspan></text>
+    <text id="u" transform="matrix(0.966, -0.259, 0.259, 0.966, 74.606, 113.144)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">u</tspan></text>
+    <text id="n" transform="translate(80 112)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">n</tspan></text>
+    <text id="k" transform="matrix(0.966, 0.259, -0.259, 0.966, 84.94, 112.07)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">k</tspan></text>
+    <text id="S" transform="translate(91.124 114.952) rotate(45)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">S</tspan></text>
+    <text id="h-2" data-name="h" transform="translate(95.846 118.606) rotate(60)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">h</tspan></text>
+    <text id="o" transform="matrix(0.259, 0.966, -0.966, 0.259, 98.808, 122.703)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">o</tspan></text>
+    <text id="w" transform="translate(100.5 126.5) rotate(90)" fill="#fff" font-size="12" font-family="Lobster-Regular, Lobster"><tspan x="0" y="0">w</tspan></text>
+  </g>
+</svg>
